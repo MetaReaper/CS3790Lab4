@@ -1,0 +1,25 @@
+******************************************************************
+                 Finding Primes With Threads
+******************************************************************
+                       By: Trevor Bird
+******************************************************************
+
+                         Contents:
+01) Installation
+02) How To Use
+
+******************************************************************
+
+01)						Installation
+
+1. Open Terminal and CD to the .cpp file location.
+2. Type in the terminal "make" without the quotes and push enter.
+
+******************************************************************
+
+02)						How to Use
+
+1. CD to the folder containing the executable file in the terminal.
+2. Type "./ThreadAssignment" without the quotes into the terminal and push enter.
+
+******************************************************************
